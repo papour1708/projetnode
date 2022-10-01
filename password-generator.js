@@ -2,7 +2,7 @@ var generator = require('generate-password');
 
 var password = generator.generate
 ({
-	length: 10,
+	length: 8,
 	numbers: true
 });
 
